@@ -1,0 +1,27 @@
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.exe.config
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.exe
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.pdb
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.Form1.resources
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.Properties.Resources.resources
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.exe
+c:\users\james\documents\visual studio 2017\VertexAndEdges\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.pdb
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.exe.config
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.pdb
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.exe
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.pdb
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.csprojResolveAssemblyReference.cache
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.csproj.GenerateResource.Cache
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.exe
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\Vowel_Consonant.Form1.resources
+E:\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\Vowel_Consonant.Properties.Resources.resources
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.exe.config
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.exe
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.pdb
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.exe
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\bin\Debug\AndPerceptron.pdb
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\Vowel_Consonant.Form1.resources
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\Vowel_Consonant.Properties.Resources.resources
+C:\Users\USER\Desktop\DIT\Intelligent Systems\Activities\AndPerceptron\AndPerceptron\obj\Debug\AndPerceptron.csproj.GenerateResource.Cache
